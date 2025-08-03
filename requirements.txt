@@ -1,0 +1,6 @@
+beautifulsoup4
+html5lib
+matplotlib
+requests
+spacy
+spacytextblob
